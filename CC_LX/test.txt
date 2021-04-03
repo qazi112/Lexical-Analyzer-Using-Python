@@ -1,0 +1,11 @@
+int number = 20 ;
+identifier = 30 ;
+while ( num == 3 ) ;
+if ( )
+{ }
+( )
+else
+for ( ) 
+float 
+string
+
